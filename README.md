@@ -1,2 +1,0 @@
-# projeyuksek
-new
