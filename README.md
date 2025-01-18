@@ -8,7 +8,7 @@ YÜKSEK LİSANS PROJESİ
 
 İbrahim GEZMİŞ
 
-Enstitü Bilim Dal ı: Bilişim Teknolojileri Tezsiz Yüksek Lisans Programı (Uzaktan Eğitim)
+Enstitü Bilim Dalı: Bilişim Teknolojileri Tezsiz Yüksek Lisans Programı (Uzaktan Eğitim)
 
 Proje Danışmanı: Prof. Dr. Ahmet ZENGİN
 
